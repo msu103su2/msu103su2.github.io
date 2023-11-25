@@ -21,6 +21,8 @@ author: Shan Hao
 
 navbar-links:
   About Me: "aboutme"
+  CV: "CV"
+  Lab Experience: "LabExperience"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
