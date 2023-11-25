@@ -21,8 +21,9 @@ author: Shan Hao
 
 navbar-links:
   About Me: "aboutme"
-  CV: "CV"
   Lab Experience: "LabExperience"
+  Courses: "Courses"
+  CV: "CV"
 
 ################
 # --- Logo --- #
